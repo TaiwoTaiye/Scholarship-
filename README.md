@@ -1,0 +1,2 @@
+# Scholarship-
+We will create a program that allows the user to find scholarships pertaining to their individual majors depending on which department their major is characterized under. Using Arrays, Classes, and Functions. It to help ease the stress of finding scholarships for students who otherwise are not informed by them. This can help students be aware of such opportunities in order to save money and move in greatness.
